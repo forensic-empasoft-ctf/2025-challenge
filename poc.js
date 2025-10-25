@@ -9,6 +9,7 @@
       '/secret',
       '/admin/flag'
     ];
+    
 
     let flagText = '';
 
